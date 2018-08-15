@@ -1,4 +1,4 @@
-# Deep Learning Nanodegree
+# Data Analyst Nanodegree
 - Start: 2018 Aug 15
 - Complete: 
 
