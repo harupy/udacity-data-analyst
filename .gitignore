@@ -1,12 +1,24 @@
-# Mac
-*.DS_Store
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
 
+# udacity
+*assets/
+*official-repository/
+*data/
+*dataset/
+*submit/
+*submit.zip
+*checkpoints/
+*Solution.ipynb
+*requirements.txt
+
 # C extensions
 *.so
+
+# .DS_store
+*.DS_Store
 
 # Distribution / packaging
 .Python
