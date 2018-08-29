@@ -10,6 +10,8 @@ data/
 dataset/
 *submit/
 *submit.zip
+*submission/
+*submission.zip
 *checkpoints/
 *Solution.ipynb
 *requirements.txt
