@@ -14,7 +14,7 @@ portfolio of projects to showcase in your job search.
 - Numpy
 - Python
 
-## Project Deadlines
+## Projects
 | No.   | Part                              | Project to submit            | Suggested Due Date | Done              |
 | :---: | --------------------------------- | --------------------------- |:------------------:|:-----------------:|
 | 1     | Welcome to the Nanodegree program |  Explore Weather Trends     | -                  |:heavy_check_mark: |
