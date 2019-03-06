@@ -2,7 +2,7 @@
 
 A repository to manage the progress in the course.
 
-|Start|COmplete|
+|Start|Complete|
 |:-|:-|
 |2018 Aug 15|2018 Oct 6
 
