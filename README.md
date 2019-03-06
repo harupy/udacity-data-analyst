@@ -1,6 +1,10 @@
-# Data Analyst Nanodegree
-- Start: 2018 Aug 15
-- Complete: 2018 Oct 6
+# [Udacity Data Analyst Nanodegree](https://www.udacity.com/course/data-analyst-nanodegree--nd002)
+
+A repository to manage the progress in the course.
+
+|Start|COmplete|
+|:-|:-|
+|2018 Aug 15|2018 Oct 6
 
 ## Program Overview
 This program prepares you for a career as a data analyst by helping you learn to organize data, uncover
@@ -15,7 +19,7 @@ portfolio of projects to showcase in your job search.
 - Python
 
 ## Projects
-| No.   | Part                              | Project to submit            | Suggested Due Date | Done              |
+| No.   | Part                              | Project Name                 | Suggested Due Date | Done              |
 | :---: | --------------------------------- | ---------------------------  |:------------------:|:-----------------:|
 | 1     | Welcome to the Nanodegree program |  Explore Weather Trends      | -                  |:heavy_check_mark: |
 | 2     | Introduction to Data Analysis     |  Investigate a Dataset       | Sep 11             |:heavy_check_mark: |
